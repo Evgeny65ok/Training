@@ -1,4 +1,4 @@
-# Training Project
+# Training Project <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYhsTWDAmbCbFgK3dh-s1HsBFo4dhtnJbIfjfTz_auJv4XSEz8nDWJqbpp_ZIs9MNv_oRH48s1brCWySheao4jeRqz7i9nREx_Hxlimqcw&s=10" alt="Марио" style="float:right; width:200px; height:200px; margin-left:20px;">
 
 ## Содержание
 
