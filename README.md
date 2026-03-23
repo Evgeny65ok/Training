@@ -17,7 +17,9 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LkcnWBYtKpePrpoOFu0M8G8digUKXGiSOQ&s" 
      alt="Пингвин" 
      style="width:50px; height:50px; border-radius: 20px;">
+    
 <div>
+
 <h1>🐧 Евгений Белевитин: Пингвин, покоривший код и право</h1>
 </div>
 </div>
