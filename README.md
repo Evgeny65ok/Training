@@ -17,13 +17,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LkcnWBYtKpePrpoOFu0M8G8digUKXGiSOQ&s" 
      alt="Пингвин" 
      style="width:50px; height:50px; border-radius: 20px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LkcnWBYtKpePrpoOFu0M8G8digUKXGiSOQ&s" 
-     alt="Пингвин" 
-     style="width:50px; height:50px; border-radius: 20px;">
-      <img src="<img width="168" height="148" alt="image" src="https://github.com/user-attachments/assets/c139efc8-fca1-4a9e-bd18-b747b94ce50c" />
-" 
-     alt="Пингвин" 
-     style="width:50px; height:50px; border-radius: 20px;">
+    
 <div>
 
 <h1>🐧 Евгений Белевитин: Пингвин, покоривший код и право</h1>
