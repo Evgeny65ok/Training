@@ -17,6 +17,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LkcnWBYtKpePrpoOFu0M8G8digUKXGiSOQ&s" 
      alt="Пингвин" 
      style="width:50px; height:50px; border-radius: 20px;">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHWHsQWWckcZoT6_QSPiWl2vX6ZXc77BPWXo2e_HHwYg&s=10" 
+     alt="Пингвин" 
+     style="width:50px; height:50px; border-radius: 20px;">
     
 <div>
 
