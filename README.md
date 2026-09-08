@@ -20,7 +20,7 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHWHsQWWckcZoT6_QSPiWl2vX6ZXc77BPWXo2e_HHwYg&s=10" 
      alt="Пингвин" 
-     style="width:50px; height:50px; border-radius: 20px;">
+     style="width:50px; height:50px; border-radius: 46px;">
     
 <div>
 
